@@ -1,5 +1,7 @@
 # Starter Web Repo
 
+This is example for rebasing
+
 ## Introduction
 
 This repository is for showing how Git and GitHub work
