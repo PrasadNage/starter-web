@@ -21,4 +21,4 @@ Pull Request for review
 
 ## Copytight
 
-Copyrights 2023 R.
+@2023 All copyright reserved
