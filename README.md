@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 
 ## How to contribute?
 
+Process to contribute inti project
+
 ## Deployement
 
 Deployment process will be shown here
