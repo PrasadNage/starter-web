@@ -15,3 +15,7 @@ Process to contribute inti project
 ## Deployement
 
 Deployment process will be shown here
+
+## Copytight
+
+Copyrights 2023 R.
