@@ -15,6 +15,7 @@ Process to contribute inti project
 ## Deployement
 
 Deployment process will be shown here
+Pull Request for review
 
 ## Copytight
 
